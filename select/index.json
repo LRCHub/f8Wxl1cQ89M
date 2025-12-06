@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "arrow",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2025-12-06T03:05:24.768305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Follow Your Arrow",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_Follow_Your_Arrow_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Follow Your Arrow (Album Version)",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/02_Follow_Your_Arrow_(Album_Version)_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Poison Arrow",
+      "artist": "yeule",
+      "has_synced": true,
+      "path": "select/03_Poison_Arrow_yeule.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "An Arrow In The Gale",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": true,
+      "path": "select/04_An_Arrow_In_The_Gale_Magnolia_Electric_Co..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AKA...Broken Arrow",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/05_AKA...Broken_Arrow_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AKA... Broken Arrow",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/06_AKA..._Broken_Arrow_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Poison Arrow - Jazz Remix",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/07_Poison_Arrow_-_Jazz_Remix_ABC.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Poison Arrow (Jazz Remix)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/08_Poison_Arrow_(Jazz_Remix)_ABC.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Poison Arrow - Live At Hammersmith Odeon",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/09_Poison_Arrow_-_Live_At_Hammersmith_Odeon_ABC.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Poison Arrow (Live At Hammersmith Odeon)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/10_Poison_Arrow_(Live_At_Hammersmith_Odeon)_ABC.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There's An Arrow",
+      "artist": "Animal Collective",
+      "has_synced": false,
+      "path": "select/11_There's_An_Arrow_Animal_Collective.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blazing Arrow",
+      "artist": "Blackalicious",
+      "has_synced": false,
+      "path": "select/12_Blazing_Arrow_Blackalicious.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broken Arrow",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/13_Broken_Arrow_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Arrow of God",
+      "artist": "Cyne",
+      "has_synced": true,
+      "path": "select/14_Arrow_of_God_Cyne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Bold Arrow Of Time",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/15_The_Bold_Arrow_Of_Time_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Bold Arrow of Time (Live at The Corner)",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/16_The_Bold_Arrow_of_Time_(Live_at_The_Corner)_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sun Arrow",
+      "artist": "Candy Claws",
+      "has_synced": false,
+      "path": "select/17_Sun_Arrow_Candy_Claws.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "arrow",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_arrow_トゲナシトゲアリ.txt"
+    }
+  ]
+}
